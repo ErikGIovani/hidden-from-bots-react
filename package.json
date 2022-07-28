@@ -1,0 +1,37 @@
+{
+  "name": "hidden-from-bots-react",
+  "version": "1.0.0",
+  "description": "Say goodbye to bots looking for emails and phone numbers.",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "scripts": {
+    "build": "npx tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErikGIovani/hidden-from-bots-react.git"
+  },
+  "keywords": [
+    "webs",
+    "email",
+    "number",
+    "phone",
+    "bots",
+    "hide",
+    "react"
+  ],
+  "author": "Erik Giovani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ErikGIovani/hidden-from-bots-react/issues"
+  },
+  "homepage": "https://hiddenfrombots.js.org/",
+  "peerDependencies": {
+    "react": ">=16.11.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.15",
+    "react": "^18.2.0",
+    "typescript": "^4.7.4"
+  }
+}
