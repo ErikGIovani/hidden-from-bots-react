@@ -7,10 +7,6 @@
    <p>Normally on the internet there are bots, crawlers or spiders, they are all the same with a different name and are dedicated to searching the internet for data such as emails, phone numbers and other data, although not all of them are bad like of google that is in charge to analyze your site to be able to index it in their search engine, there are others that are, although you can create a robots.txt file and add a configuration to avoid bots, some people can create bots to ignore if there is a robots file .txt and they can scan still your site and collect your email or phone number to be able to send spam, make phone scams or sell that data to companies so they can send you unwanted advertising.</p>
 
    <p>Luckily with Hidden From Bots you can avoid most of these annoying bots by hiding these elements from the dom.</p>
-
-   <a href="https://www.buymeacoffee.com/erikgiovani" target="_blank">
-      <img width="20%" src="https://helloimjessa.files.wordpress.com/2021/06/bmc-button.png">
-   </a>
 </div>
 
 <div align="center">
