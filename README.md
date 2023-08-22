@@ -132,3 +132,13 @@ function App() {
 
 export default App;
 ```
+
+</div>
+
+---
+
+<div align="center">
+
+Made with ❤️ by **Erik Giovani**
+
+</div>
